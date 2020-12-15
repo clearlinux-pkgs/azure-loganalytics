@@ -4,7 +4,7 @@
 #
 Name     : azure-loganalytics
 Version  : 0.1.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/7a/37/6d296ee71319f49a93ea87698da2c5326105d005267d58fb00cb9ec0c3f8/azure-loganalytics-0.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/7a/37/6d296ee71319f49a93ea87698da2c5326105d005267d58fb00cb9ec0c3f8/azure-loganalytics-0.1.0.zip
 Summary  : Microsoft Azure Log Analytics Client Library for Python
